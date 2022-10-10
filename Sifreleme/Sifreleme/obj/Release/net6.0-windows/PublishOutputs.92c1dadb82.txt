@@ -1,0 +1,5 @@
+C:\Users\omer_\Desktop\Şifreleme\Sifreleme.exe
+C:\Users\omer_\Desktop\Şifreleme\Sifreleme.dll
+C:\Users\omer_\Desktop\Şifreleme\Sifreleme.deps.json
+C:\Users\omer_\Desktop\Şifreleme\Sifreleme.runtimeconfig.json
+C:\Users\omer_\Desktop\Şifreleme\Sifreleme.pdb
